@@ -1,0 +1,9 @@
+# Ignorar basura de STM32CubeIDE
+Debug/
+Release/
+bin/
+obj/
+.settings/
+.launches/
+*.launch
+.metadata/
